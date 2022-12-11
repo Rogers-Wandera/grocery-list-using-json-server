@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "Salt one sack"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "Laptop"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "Make up kit"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "Bag"
+    },
+    {
+      "id": "1670681893957",
+      "checked": false,
+      "item": "Pizza"
+    }
+  ]
+}
